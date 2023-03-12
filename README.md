@@ -20,11 +20,11 @@
 3. Please deliver this in a publicly available repository like GitHub, BitBucket etc. With documentation about your concerns, decisions, guiding and testing etc.
 
 ### Set up:
-####Pre-conditions:
+Pre-conditions:
 1. Device used: Mac.
 2. Has no Homebrew installed.
 3. Has no Visual Studio installed.
-####Steps:
+Steps:
 1. Open terminal.
 2. Run command "./install_visual_studio.sh".
 
