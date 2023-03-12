@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8DD2E3B9-3162-41A0-AE85-7547A60D33AE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumCSharpApp/SeleniumCSharpApp.cs">
     <Files>
-      <File FileName="SeleniumCSharpApp/SeleniumCSharpApp.cs" Line="32" Column="51" />
+      <File FileName="SeleniumCSharpApp/SeleniumCSharpApp.cs" Line="24" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,6 +11,11 @@
               <Node name="SeleniumCSharpApp.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumCSharpApp" expanded="True" />
         </State>
       </Pad>
     </Pads>
