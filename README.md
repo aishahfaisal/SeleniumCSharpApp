@@ -30,5 +30,5 @@ Steps:
 2. Run command "./install_visual_studio.sh".
 
 ### Concerns / Decisions:
-1. The code has been developed and tested on Mac M1, QA is lacking the knowledge to confirm whether running on different devices (Window / Mac Intel) will produce different results. Considering point number 3 on Implementation Requirements, may need to make adjustments to the code or configuration based on the differences, to ensure the code works correctly on all platforms.
+1. The code has been developed and tested on Mac M1. Considering point number 3 on Implementation Requirements, may need to make adjustments to the code or configuration based on the differences, to ensure the code works correctly on all platforms.
 2. The headless mode is implemented to reduce the time of execution and minimize human interaction in the test. However, there may be times you want to mimic a real user or visually see the test run hence running the test in a non-headless mode will be recommended. For the scope of this test, the time difference should not be more than 5 seconds.
