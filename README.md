@@ -26,7 +26,7 @@ Pre-conditions:
 3. Has no Visual Studio installed.
 
 Steps:
-1. Open terminal.
+1. Open terminal at folder contain file "install_visual_studio.sh".
 2. Run command "./install_visual_studio.sh".
 
 ### Concerns / Decisions:
