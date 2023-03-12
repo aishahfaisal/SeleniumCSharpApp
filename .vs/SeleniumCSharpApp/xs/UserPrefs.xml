@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{8DD2E3B9-3162-41A0-AE85-7547A60D33AE}|Default">
-  <MonoDevelop.Ide.ItemProperties.SeleniumCSharpApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumCSharpApp/SeleniumCSharpApp.cs">
+    <Files>
+      <File FileName="SeleniumCSharpApp/SeleniumCSharpApp.cs" Line="32" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumCSharpApp" expanded="True">
+            <Node name="SeleniumCSharpApp" expanded="True">
+              <Node name="SeleniumCSharpApp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SeleniumCSharpApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
