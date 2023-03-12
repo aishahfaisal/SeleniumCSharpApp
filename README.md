@@ -26,8 +26,8 @@ Pre-conditions:
 3. Has no Visual Studio installed.
 
 Steps:
-1. Open terminal at folder contain file "install_visual_studio.sh".
-2. Run command "./install_visual_studio.sh".
+1. Open terminal at folder contain file "installation.sh".
+2. Run command "./installation.sh".
 
 ### Concerns / Decisions:
 1. The code has been developed and tested on Mac M1. Considering point number 3 on Implementation Requirements, may need to make adjustments to the code or configuration based on the differences, to ensure the code works correctly on all platforms.
