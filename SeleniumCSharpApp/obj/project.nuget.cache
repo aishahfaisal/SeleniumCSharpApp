@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZo2RzgG41SPdvwAfCprZaBrh3emLKk2M+qfgdKeCGQ9U4D/MD7e43c85NFJkitx7UjMA9WkU6RyrTiGu+iYQg==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Projects/SeleniumCSharpApp/SeleniumCSharpApp/SeleniumCSharpApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/admin/.nuget/packages/selenium.support/4.8.1/selenium.support.4.8.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/selenium.webdriver/4.8.1/selenium.webdriver.4.8.1.nupkg.sha512",
+    "/Users/admin/.nuget/packages/selenium.webdriver.chromedriver/111.0.5563.6400/selenium.webdriver.chromedriver.111.0.5563.6400.nupkg.sha512"
+  ],
+  "logs": []
+}
