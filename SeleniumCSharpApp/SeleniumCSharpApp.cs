@@ -2,7 +2,6 @@
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace SeleniumCSharpApp
 
@@ -12,11 +11,12 @@ namespace SeleniumCSharpApp
         [Test]
         public void Test1()
         {
-            //No GUI - reduce time. Remove 'options' from code line 18 to run GUI.
+            //No GUI - reduce time. 
             ChromeOptions options = new();
             options.AddArgument("--headless");
 
             //Create a new instance of the Chrome driver
+            //Remove 'options' from code line below to run GUI.
             IWebDriver driver = new ChromeDriver(options);
 
             Console.WriteLine("Start testing... Please wait..");
